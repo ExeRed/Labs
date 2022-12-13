@@ -3,7 +3,7 @@ package Labs.Lab6;
 import java.util.Arrays;
 import java.util.Scanner;
 
-class OsobaTest2 {
+/*class OsobaTest2 {
     public static void main(String[] args) {
         // Program testowy
         int pesel;
@@ -31,4 +31,4 @@ class OsobaTest2 {
             System.out.println(osobaTab[i].dajImie() + " " + osobaTab[i].dajNazwisko() + " " + osobaTab[i].dajPesel());
         }
     }
-}
+}*/
